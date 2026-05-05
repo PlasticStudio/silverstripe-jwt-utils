@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "firebase/php-jwt": "^6.0.0",
+    "firebase/php-jwt": "^6.0.0 || ^7.0.0",
     "nesbot/carbon": "^2.70.0",
     "ramsey/uuid": "^4.7.4"
   },
